@@ -1,0 +1,7 @@
+streamlit
+praw
+chromadb
+langchain
+openai
+sentence-transformers
+grok
